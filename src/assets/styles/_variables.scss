@@ -1,0 +1,123 @@
+$primary: #B53647;
+$teal: #029C89;
+$bright-blue: #1579DD;
+
+$dem-blue: #044862;
+$rep-red: #C2280A;
+$deep-gray: #3B3B3B;
+$light-gray: #F3F3F3;
+
+$link: $bright-blue;
+
+// Typography
+$primary-font: 'Roboto', sans-serif;
+$secondary-font: 'Vollkorn', serif;
+
+// Spacing
+$header-height: 102px;
+
+$decorative-line-size: 3px;
+$decorative-line-color: $deep-gray;
+
+$progress-bar-color: $primary;
+
+// Breakpoints
+$desktop-down: max-width 1200px;
+$desktop-up: 1200px;
+$tablet-down: max-width 900px;
+$tablet-up: 900px;
+$mobile-down: max-width 600px;
+$mobile-up: 600px;
+
+
+// ------------------------------ legacy colors beyond this point
+// TODO: Remove all unused references update grayscale
+
+// Original Nord Theme Colors nordtheme.com
+$nord0: #3B3B3B;
+$nord1: #3B4252;
+$nord2: #434C5E;
+$nord3: #4C566A;
+$nord4: #D8DEE9;
+$nord5: #E5E9F0;
+$nord6: #ECEFF4;
+$nord7:  #8FBCBB;
+$nord8:  #88C0D0;
+$nord9:  #81A1C1;
+$nord10: #5E81AC;
+$nord11: #BF616A;
+$nord12: #D08770;
+$nord13: #EBCB8B;
+$nord14: #A3BE8C;
+$nord15: #B48EAD;
+
+
+// Floodlight Grays
+$black: #000;
+$gray0: $nord0;
+$gray1: $nord1;
+$gray2: $nord2;
+$gray3: $nord3;
+$gray4: #C0C0C0;
+$gray5: red;
+$gray6: $nord4;
+$gray7: $nord5;
+$gray8: $nord6;
+$gray9: #fafafa;
+$white: #fff;
+
+
+// Floodlight Colors
+$secondary: $nord7;
+$accent: $nord9;
+$blue: #5E81AC;
+
+
+// Utility Colors
+$danger: $nord11;
+$red: $nord11;
+
+$warning-alt: $nord12;
+$orange: $nord12;
+
+$warning: $nord13;
+$yellow: $nord13;
+
+$success: $nord14;
+$green: $nord14;
+
+$purple: $nord15;
+
+
+
+// CSS VARIABLES for Nord Theme
+:root {
+    --color-white: #fff;
+  
+    /* https://www.nordtheme.com/docs/colors-and-palettes */
+    /* Polar night */
+    --color-nord-0: #2e3440;
+    --color-nord-1: #3b4252;
+    --color-nord-2: #434c5e;
+    --color-nord-3: #4c566a;
+  
+    /* Snow storm */
+    --color-nord-4: #d8dee9;
+    --color-nord-5: #e5e9f0;
+    --color-nord-6: #eceff4;
+  
+    /* Frost */
+    --color-nord-7: #8fbcbb;
+    --color-nord-8: #88c0d0;
+    --color-nord-9: #81a1c1;
+    --color-nord-10: #5e81ac;
+  
+    /* Aurora */
+    --color-nord-11: #bf616a;
+    --color-nord-12: #d08770;
+    --color-nord-13: #ebcb8b;
+    --color-nord-14: #a3be8c;
+    --color-nord-15: #b48ead;
+  
+  }
+

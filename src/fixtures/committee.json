@@ -1,0 +1,39 @@
+[
+  {
+    "other_id": "C000756644",
+    "committee_id": "C00046463",
+    "committee_name": "DNC SERVICES INC.",
+    "candidate_name": null,
+    "name": "CLUB FOR GROWTH ACTION",
+    "committee_type": "O",
+    "interest_group_category": "",
+    "connected_organization_name": "",
+    "candidate_id": "",
+    "candidate_party_affiliation": null,
+    "party_affiliation": "DEM",
+    "total": "34636356909.00",
+    "parties": {
+      "DEM": {
+        "percent": 0.9884118264208963,
+        "amount": 646373075
+      },
+      "REP": {
+        "percent": 0.0013112000964399227,
+        "amount": 1161562
+      },
+      "Other": {
+        "percent": 0.01027697348266373,
+        "amount": 4025756
+      }
+    }
+  },
+  {
+    "other_id": "H4VA10089",
+    "committee_id": null,
+    "committee_name": null,
+    "candidate_name": "GRAMMAR, ESTHER",
+    "party_affiliation": "REP",
+    "total": "56456457.00",
+    "parties": null
+  }
+]

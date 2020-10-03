@@ -1,0 +1,19 @@
+ol.list {
+    list-style: decimal;
+    padding: 1rem;
+    li {
+        padding: 0.5rem 1rem;
+        ol.list {
+            list-style: lower-alpha;
+        }
+    }
+}
+
+ul.list {
+    list-style-type: disc;
+    padding: 1rem;
+
+    li {
+        padding: 0.5rem 1rem;
+    }
+}
