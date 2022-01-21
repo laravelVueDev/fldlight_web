@@ -13,7 +13,7 @@
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.6.3",
     "@sentry/browser": "^5.15.4",
-    "@sentry/integrations": "^5.15.4",
+    "@sentry/integrations": "^5.30.0",
     "axios": "^0.19.2",
     "breakpoint-sass": "^2.7.1",
     "chart.js": "^2.9.3",
