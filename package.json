@@ -11,12 +11,12 @@
     "start": "npm run serve"
   },
   "dependencies": {
-    "@auth0/auth0-spa-js": "^1.6.3",
+    "@auth0/auth0-spa-js": "^1.15.0",
     "@sentry/browser": "^5.15.4",
     "@sentry/integrations": "^5.15.4",
     "axios": "^0.19.2",
     "breakpoint-sass": "^2.7.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^3.0.0",
     "core-js": "^3.4.4",
     "register-service-worker": "^1.6.2",
     "reset-css": "^5.0.1",
